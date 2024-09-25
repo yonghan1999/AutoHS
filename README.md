@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 神秘代码:
 ```
-AAEDAfWfAwSwlgTnlgS1oQSWowQNr5YEs5YE+qAEsaEEsqEEvqEE0KEE1aEEiKIEi6IEjqIExaME0qMEAA==
+AAEBAZyrBARa8wWvnwSXoAQN9QX3BcAH9QjbCvMMpp8EvZ8E/Z8EoaAEnNQEndQE8eYGAAA=
 ```
 
 在广大动物园脚本的鼎力支持下，已于2021年8月14日上传说。上传说时排名6785，上传说前29场对战战绩为20-9。
